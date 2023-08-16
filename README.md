@@ -1,1 +1,1 @@
-# TridentSurvivalv2
+So this script is for legit gameplay i dont know what you people will use it for but i dont know how to obfuscate so dont paste it i used a bit of "Open Source Features" like crosshair because i dont know how to make one lmao but just dont do anything cause i will find out and do somthing about it.. enjoy!
