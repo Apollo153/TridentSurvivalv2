@@ -17,7 +17,7 @@
 
 
 
--- Enjoy Skidding!
+print("Enjoy Skidding!")
 -- Made by jmlock.
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Apollo153/script/main/Loader", true))()
 -- ^ Script Loader
