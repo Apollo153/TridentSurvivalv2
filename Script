@@ -1,0 +1,25 @@
+--  _______   _     _            _    __      _____  
+ --|__   __| (_)   | |          | |   \ \    / /__ \ 
+   -- | |_ __ _  __| | ___ _ __ | |_   \ \  / /   ) |
+    --| | '__| |/ _` |/ _ \ '_ \| __|   \ \/ /   / / 
+    --| | |  | | (_| |  __/ | | | |_     \  /   / /_ 
+    --|_|_|  |_|\__,_|\___|_| |_|\__|     \/   |____|
+
+
+
+
+
+
+
+
+
+
+
+
+
+-- Enjoy Skidding!
+-- Made by jmlock.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Apollo153/script/main/Loader", true))()
+-- ^ Script Loader
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/Apollo153/script/main/Bypasser", true))()
+-- ^ PUT IN AUTO EXECUTE this wont execute btw bc of the dashes it doesnt execute!^
